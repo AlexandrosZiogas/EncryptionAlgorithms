@@ -1,2 +1,2 @@
 # CSharp-EncryptionAlgorithms
-C# Encryption Application using MD5 , SHA , AES algorithms.
+C#(.NET) Encryption Application using MD5 , SHA , AES algorithms.
